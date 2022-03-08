@@ -12,3 +12,4 @@ In this program, photo manipulation can be done such as:
 
 nb:
 The code is not good enough since I just started to learn OOP. But it works.
+The code is in Indonesia Language
